@@ -28,7 +28,7 @@
 - Learning to provide solutions with scalable architecture  
 - Personal projects & open-source contributions  
  
-### 🛠️ Languages & Tools
+### 🧰 Languages & Tools
 <p>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
