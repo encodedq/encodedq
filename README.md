@@ -30,7 +30,6 @@ Follow me on social media
 - Personal projects & open-source contributions  
  
 ### 🛠️ Languages & Tools
-
 <p>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
@@ -38,17 +37,11 @@ Follow me on social media
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
-  <!-- Cursor (custom SVG) -->
-  <img src="https://raw.githubusercontent.com/VectorLogoZone/vectorlogozone/master/logos/cursor/cursor.svg" height="40" />
-
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-
-  <!-- Apex (custom Salesforce Apex logo) -->
-  <img src="https://raw.githubusercontent.com/naijopkr/devicon-sf/main/icons/apex/apex-original.svg" height="40" />
 
   <!-- Salesforce -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" />
