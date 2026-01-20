@@ -1,7 +1,6 @@
 # 👨🏻‍💻 enc[o]ded
 
 <h3 align="center">Software Engineer · Computer Science Enthusiast</h3>
----
 
 ## 🚀 About Me  
 - 🔹 I build software
