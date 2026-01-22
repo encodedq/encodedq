@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Gamer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=encodedq&label=VIEWS&color=2ea44f&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=encoded&label=ENCRYPTION%20KEYS%20FOUND&color=2ea44f&style=flat-square" alt="Views" />
 </p>
 
 ## 🚀 The Dossier
