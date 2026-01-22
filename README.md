@@ -37,7 +37,8 @@
 
 ## 📊 Analytics
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=encodedq&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=encodedq&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+</p>
 
 ---
 
