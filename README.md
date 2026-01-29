@@ -1,31 +1,6 @@
-## 🚀 About
-* **Status:** Building software and breaking down how systems built.
-* **Interests:** Reverse engineering + discovering classic engines (Doom/Wolfenstein/GoldSrc) and systems architecture.
-* **Setup:** `Neovim` + `WSL2` on `Windows`.
+I'm deeply interested in **low-level systems**, currently studying **C** and **Linux**, and feel good about everything so far 
 
-## 🛠 Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js" alt="Languages" />
-</p>
-
-### Environment & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,windows,linux,github,vscode,powershell,ubuntu" alt="Tools" />
-</p>
+## 🛠️ What I Work With  
+[![My Skills](https://skillicons.dev/icons?i=linux,lua,ubuntu,git,c,neovim,rust,github&perline=3)](https://skillicons.dev)
 
 
-## 📊 Analytics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=encodedq&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
-</p>
-
-## 🤝 Establish Contact
-<p align="left">
-  <a href="https://discord.com/users/encodedq">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=encodedq" alt="Discord" />
-  </a>
-</p>
-
-> “Stay focused, keep learning, serve with excellence.”
