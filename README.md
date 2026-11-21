@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/maksim-kasyanchuk-01a19a2a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/encodedq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://x.com/KasyanchukMaks">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
@@ -50,7 +50,6 @@ Right now I'm expanding beyond Salesforce into **Apple platform development** �
 - Salesforce Platform Administrator
 - Salesforce Platform Developer I
 - Salesforce Platform Developer II
-- Salesforce Agentforce Specialist
 
 ### Vision
 
@@ -60,5 +59,5 @@ I care about writing software that's actually used — not just shipped. My near
 
 <p>
   <a href="https://www.linkedin.com/in/maksim-kasyanchuk-01a19a2a9/">LinkedIn</a> ·
-  <a href="https://github.com/encodedq">GitHub</a>
+  <a href="https://x.com/KasyanchukMaks">X</a>
 </p>
