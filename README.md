@@ -53,6 +53,7 @@ Right now I'm expanding beyond Salesforce into **Apple platform development** â€
 - Salesforce Platform Administrator
 - Salesforce Platform Developer I
 - Salesforce Platform Developer II
+- Salesforce Agentforce Specialist
 
 ### Vision
 
