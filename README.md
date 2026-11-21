@@ -34,9 +34,12 @@ Right now I'm expanding beyond Salesforce into **Apple platform development** â€
 **Web & Tooling**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
 </p>
 
 **Currently Learning**
@@ -53,7 +56,9 @@ Right now I'm expanding beyond Salesforce into **Apple platform development** â€
 
 ### Vision
 
-I care about writing software that's actually used â€” not just shipped. My near-term focus is Salesforce engineering done well: clean, modular, maintainable solutions built on KISS, DRY, and SOLID principles. My longer-term goal is to grow into Apple platform development (Apps & Frameworks), building strong CS fundamentals along the way so the Swift I write isn't just syntax I copied, but something I actually understand.
+I see code as a craft, close to art â€” every line is a choice, and the shape of a system says as much as the feature it ships. I care about writing software that's actually used, not just shipped. My near-term focus is Salesforce engineering done well: clean, modular, maintainable solutions built on KISS, DRY, and SOLID principles. My longer-term goal is to grow into Apple platform development (Apps & Frameworks), building strong CS fundamentals along the way so the Swift I write isn't just syntax I copied, but something I actually understand.
+
+To me, software is how authentic ideas become real â€” the medium that turns what's only imagined into something people can hold, use, and be changed by. That's the kind of work I want to keep building toward: not just functional, but game-changing.
 
 ### Let's Connect
 
