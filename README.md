@@ -55,7 +55,7 @@ Right now I'm expanding beyond Salesforce into **Apple ecosystem development** â
 
 ### Vision
 
-I see code as a craft which goes hand-to-hand with an art. The best solutions are made by the obsessed ones, who is likely to be so delusional that their software becomes just a piece of art and a landscape to research and learn from. I am one of these guys, who is obsessed and very precise with the details. Currently, I am sharpening my Salesforce knowledge and transitioning to the completely new landscape to expand my knowledge and vision in tech.
+I see code as a craft which goes hand-to-hand with an art. The best solutions are made by the obsessed ones, who is likely to be so delusional that their software becomes just a piece of art and a landscape to research and learn from. I am one of these guys, who is obsessed and very precise with the details. Currently, I am sharpening my fundamentals and low-level knowledge and transitioning to the completely new landscape to expand my knowledge and vision in tech.
 
 To me, software is how authentic ideas become real â€” the medium that turns what's only imagined into something people can hold, use, and be changed by. That's the kind of work I want to keep building toward: not just functional, but game-changing.
 
