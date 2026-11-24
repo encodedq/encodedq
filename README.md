@@ -19,7 +19,7 @@
 
 I'm a Salesforce Software Engineer at **EPAM**, with ~2 years of commercial experience building on the Salesforce platform. Before that, I worked as a Salesforce Developer at Redtag. I'm currently finishing a Computer Science degree at the Lviv branch of European University (2023–2027).
 
-Right now I'm expanding beyond Salesforce into **Apple platform development** — learning Swift and the Apps & Frameworks side of the ecosystem, with the long-term goal of building software people actually use at scale.
+Right now I'm expanding beyond Salesforce into **Apple ecosystem development** — learning Swift and the low-level side of the ecosystem, with the long-term goal of building software people actually use at scale. I also like to build Apps with SwiftUI combining them with low-level capabilities
 
 ### What I Work With
 
